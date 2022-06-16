@@ -1,0 +1,2 @@
+C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\Debug\mp2-lab7-table.exe
+C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\Debug\mp2-lab7-table.pdb

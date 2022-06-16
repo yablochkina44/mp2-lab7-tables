@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+C:\Users\nnatu\mp2-lab7-table\FormTables\MyForm.h(385,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : error LNK2028: ссылка на неразрешенную лексему (0A0004EE) "public: void __thiscall TreeTable::DelRec(struct TreeNode *)" (?DelRec@TreeTable@@$$FQAEXPAUTreeNode@@@Z) в функции "public: virtual __thiscall TreeTable::~TreeTable(void)" (??1TreeTable@@$$FUAE@XZ)
+MyForm.obj : error LNK2028: ссылка на неразрешенную лексему (0A0005EA) "public: __thiscall ArrayHashTable::ArrayHashTable(int,int)" (??0ArrayHashTable@@$$FQAE@HH@Z) в функции __catch$?buttonCreateTable_Click@MyForm@FormTables@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z$6
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall ScanTable::FindRecord(int)" (?FindRecord@ScanTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall ScanTable::InsRecord(struct Record)" (?InsRecord@ScanTable@@UAE_NURecord@@@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall ScanTable::DelRecord(int)" (?DelRecord@ScanTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall SortTable::FindRecord(int)" (?FindRecord@SortTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall SortTable::InsRecord(struct Record)" (?InsRecord@SortTable@@UAE_NURecord@@@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall SortTable::DelRecord(int)" (?DelRecord@SortTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual struct Record const & __thiscall TreeTable::GetCurrentRecord(void)const " (?GetCurrentRecord@TreeTable@@UBEABURecord@@XZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall TreeTable::IsFull(void)const " (?IsFull@TreeTable@@UBE_NXZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall TreeTable::FindRecord(int)" (?FindRecord@TreeTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall TreeTable::InsRecord(struct Record)" (?InsRecord@TreeTable@@UAE_NURecord@@@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall TreeTable::DelRecord(int)" (?DelRecord@TreeTable@@UAE_NH@Z).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __thiscall TreeTable::Reset(void)" (?Reset@TreeTable@@UAEXXZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __thiscall TreeTable::GoNext(void)" (?GoNext@TreeTable@@UAEXXZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall TreeTable::IsEnd(void)const " (?IsEnd@TreeTable@@UBE_NXZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual int __thiscall TreeTable::GetKey(void)const " (?GetKey@TreeTable@@UBEHXZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall TreeTable::GetValue(void)const " (?GetValue@TreeTable@@UBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ).
+MyForm.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall TreeTable::DelRec(struct TreeNode *)" (?DelRec@TreeTable@@$$FQAEXPAUTreeNode@@@Z) в функции "public: virtual __thiscall TreeTable::~TreeTable(void)" (??1TreeTable@@$$FUAE@XZ).
+MyForm.obj : error LNK2001: неразрешенный внешний символ "public: virtual bool __thiscall BalanceTreeTable::InsRecord(struct Record)" (?InsRecord@BalanceTreeTable@@UAE_NURecord@@@Z).
+MyForm.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall ArrayHashTable::ArrayHashTable(int,int)" (??0ArrayHashTable@@$$FQAE@HH@Z) в функции __catch$?buttonCreateTable_Click@MyForm@FormTables@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z$6.
+C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\Debug\FormTables.exe : fatal error LNK1120: неразрешенных внешних элементов: 21

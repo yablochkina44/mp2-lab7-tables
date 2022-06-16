@@ -1,0 +1,8 @@
+﻿  ArrayHashTable.cpp
+  main.cpp
+C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\main.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ScanTable.cpp
+  TreeTable.cpp
+  Создание кода...
+C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\TreeTable.cpp(208): warning C4172: возвращение адреса локальной или временной переменной
+  mp2-lab7-table.vcxproj -> C:\Users\nnatu\mp2-lab7-table\mp2-lab7-table\Debug\mp2-lab7-table.exe
